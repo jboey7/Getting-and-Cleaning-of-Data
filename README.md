@@ -1,4 +1,4 @@
-# Getting-And-Cleaning-Of-Data
+# Getting And Cleaning Of Data
 Getting and Cleaning of Data assignments and related files.
 
 This is an assignment for the course project, Getting and Cleaning Data.

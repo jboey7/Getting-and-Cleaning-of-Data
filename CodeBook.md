@@ -91,7 +91,7 @@ This codebook summarize the information in the file "data_with_means.txt"
 - fBodyBodyGyroJerkMagStd
 - fBodyBodyGyroJerkMagMeanFreq
 
-## Description of Activitity_Labels.txt
+## Description for Activitity_Labels.txt
 - **WALKING** (value = 1): Subject was walking during the test
 - **WALKING_UPSTAIRS** (value = 2): Subject was walking up a staircase during the test
 - **WALKING_DOWNSTAIRS** (value = 3): Subject was walking down a staircase during the test
